@@ -1,6 +1,6 @@
 # Pete's Big List of Resources for Web3
 
-Here is my big list of web3 resources to help you get started.
+Here is my big list of web3 resources to help you get started. I only link to sites and services I've personally used.
 
 **-- Be sure to Watch 👁️ or Star ⭐️ this repo ☝️ to be notified of updates**
 
@@ -9,6 +9,7 @@ Here is my big list of web3 resources to help you get started.
 1. [READ - essential reading](#essential-reading)
 2. [WATCH - essential viewing](#essential-viewing)
 3. [LEARN - free web3 courses](#free-web3-courses)
+    - Free music industry + web3 course
     - Learn to earn
     - Free Web3 development courses
     - Moocs
@@ -16,6 +17,8 @@ Here is my big list of web3 resources to help you get started.
 5. [DAO - tools](#dao-tools)
 6. [Cryptoeconomics](#cryptoeconomics)
 7. [More resource lists](#resource-lists)
+8. [People to follow on Twitter](#twitter-web3-people)
+9. [Other useful resources](#other-useful-resources)
 
 ---
 
@@ -79,7 +82,18 @@ Here is my big list of web3 resources to help you get started.
 
 ## Cryptoeconomics
 - [The Blockchain Economy: A beginner’s guide to institutional cryptoeconomics](https://medium.com/cryptoeconomics-australia/the-blockchain-economy-a-beginners-guide-to-institutional-cryptoeconomics-64bf2f2beec4)
-
+- [Economics of Blockchain](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2744751)
+- [Disrupting Governance: The New Institutional Economics of Distributed Ledger Technology](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2811995)
+- [Blockchains Industrialise Trust](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3074070)
 
 ## Resource Lists
 - [UseWeb3.xyz](https://www.useweb3.xyz/)
+
+## Twitter web3 people
+- [Daniel Bar](https://twitter.com/danieltbar)
+- [Balaji Srinivasan](https://twitter.com/balajis) - author The Network State (linked above)
+
+## Other useful resources
+- [Blockchain and the creative industries](https://apo.org.au/sites/default/files/resource-files/2019-11/apo-nid267131.pdf) [PDF]
+- [How to Web3](https://www.howtoweb3.guide/)
+- [Web3 Creators](https://www.web3creators.com/learn-web3)
