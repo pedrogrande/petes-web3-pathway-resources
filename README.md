@@ -47,7 +47,10 @@ Here is my big list of web3 resources to help you get started.
 
 **Note:** As blockchain development is moving at a very fast rate, tutorials and courses become 'out of date' very quickly. Double check that a course you start is current (using latest versions of software tools).
 
-### 1. Learn to Earn
+### Free music industry + web3 course
+- [mus3](https://www.mus3.io/)
+
+### Learn to Earn
 - [Buildspace](https://buildspace.so/)
 - [Rabbithole](https://rabbithole.gg/)
 - [Layer3](https://beta.layer3.xyz/bounties)
