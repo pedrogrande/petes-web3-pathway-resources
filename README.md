@@ -1,5 +1,7 @@
 # Pete's Big List of Resources for Web3
 
+**Check out my Web3 digital skills social enterprise, [U CUBED](https://www.ucubed.co)** 
+
 Here is my big list of web3 resources to help you get started. I only link to sites and services I've personally used.
 
 **-- Be sure to Watch 👁️ or Star ⭐️ this repo ☝️ to be notified of updates**
