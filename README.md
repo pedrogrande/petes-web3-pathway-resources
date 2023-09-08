@@ -73,7 +73,8 @@ Here is my big list of web3 resources to help you get started. I only link to si
 - [DAO Jobs](https://daomatch.xyz/)
 - [Gitcoin](https://gitcoin.co/bounties/funder) - be rewarded for working on open source projects
 
-## DAO Tools
+## Web3 startups & DAO Tools
+- [Alchemy Dapp Store - Discover Web3](https://www.alchemy.com/dapps)
 - [Deep DAO](https://deepdao.io/dao_tools) - Also great DAO articles and data
 - [DAO Masters](https://www.daomasters.xyz/)
 - [DAO Central](https://daocentral.com/) - Listing of DAOs
