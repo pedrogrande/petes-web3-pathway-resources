@@ -26,11 +26,11 @@ Here is my big list of web3 resources to help you get started. I only link to si
 
 ## Pete's Links
 - [Web3 FTW](https://pitch.com/public/5b9a0b6c-8f22-4ab5-b861-f8bc8a5cddb9) - A presentation for [Becoded.lk](https://becoded.lk) community 19/12/22
-- [Social links](https://bit.ly/me/pete-argent)
+- [Social links](https://bit.ly/m/pete-argent)
 - [DAO development resource list](https://socialimpactinnovation.notion.site/72c77a4840d34412962e94368ff442c4?v=73d6be7902f3407d9a20f9bb92b74124)
 
 ## Essential Reading
-1. Bitcoin Whitepaper [PDF - English][Youtube](https://bitcoin.org/bitcoin.pdf) | [Other languages](https://bitcoin.org/en/bitcoin-paper)
+1. Bitcoin Whitepaper [PDF - English](https://bitcoin.org/bitcoin.pdf) | [Other languages](https://bitcoin.org/en/bitcoin-paper)
 2. Ethereum [Docs](https://ethereum.org/en/developers/docs/) | [Learn](https://ethereum.org/en/learn/)
 3. The Network State [Read free online](https://thenetworkstate.com/)
 
