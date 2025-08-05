@@ -39,7 +39,7 @@ Here is my big list of web3 resources to help you get started. I only link to si
 ## Essential Viewing
 - The Value of **Trust** | Professor Dan Ariely | TEDxEast [Youtube](https://youtu.be/mwzBJF5Q7Vw?t=95)
 - What Exactly is **Web3**? by Juan Benet at Web3 Summit 2018 [Youtube](https://www.youtube.com/watch?v=l44z35vabvA)
-- Dr Cathy Barrera - Blockchain **Governance** 101 [Youtube](https://www.youtube.com/watch?v=LNTsQsm6B44)
+- Dr Cathy Barrera - Blockchain **Governance** 101 [Youtube](https://youtu.be/-ObMqxHaSmc?list=PL7eVtcQCTlGMxtEvUG3B5KyWn7HUcEfLa&t=8281)
 - Blockchain & Circular Supply Chain with Jason Potts [Youtube](https://youtu.be/3-LnKH9QlBo)
 - The History of Banking: A Broken System? [Youtube](https://www.youtube.com/watch?v=aIQY44LCIjc)
 - Ali Yahya: Crypto Business Models [Youtube](https://www.youtube.com/watch?v=AI1N6dY8vSQ)
